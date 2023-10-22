@@ -2,4 +2,3 @@ frontend/app/node_modules/
 frontend/app/public/
 backend/app/secret
 backend/app/back.db
-backend/app/go.sum
